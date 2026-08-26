@@ -95,9 +95,3 @@ Face-Recognition-Attendance-System/
 │
 └── Images/
     └── .gitkeep
-
-![Face Recognition](screenshots/face-recognition.png)
-
-### Attendance Report
-
-![Attendance Report](screenshots/attendance-report.png)
