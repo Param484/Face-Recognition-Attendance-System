@@ -77,7 +77,7 @@ The project is designed to eliminate manual attendance entry and provide a simpl
 ---
 ### Main Window
 
-![Main Window](screenshots/https://github.com/Param484/Face-Recognition-Attendance-System/blob/c0bed41f6b915b6c459988dbc524ba95879dea20/Screenshot%202026-08-26%20220751.png)
+![Main Window](screenshots/https://github.com/Param484/Face-Recognition-Attendance-System/blob/main/Screenshot%202026-08-26%20220751.png?raw=true)
 
 ### Student Registration
 
