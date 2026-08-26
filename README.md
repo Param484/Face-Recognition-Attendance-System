@@ -99,7 +99,7 @@ Face-Recognition-Attendance-System/
 
 ### Main Window
 
-![Main Window](https://github.com/Param484/Face-Recognition-Attendance-System/blob/c0bed41f6b915b6c459988dbc524ba95879dea20/Screenshot%202026-08-26%20220751.png)
+![Main Window](screenshots/https://github.com/Param484/Face-Recognition-Attendance-System/blob/c0bed41f6b915b6c459988dbc524ba95879dea20/Screenshot%202026-08-26%20220751.png)
 
 ### Student Registration
 
