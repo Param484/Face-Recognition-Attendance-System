@@ -95,3 +95,20 @@ Face-Recognition-Attendance-System/
 │
 └── Images/
     └── .gitkeep
+## Screenshots
+
+### Main Window
+
+![Main Window]([screenshots/main-window.png](https://github.com/Param484/Face-Recognition-Attendance-System/blob/c0bed41f6b915b6c459988dbc524ba95879dea20/Screenshot%202026-08-26%20220751.png))
+
+### Student Registration
+
+![Student Registration]([screenshots/registration.png](https://github.com/Param484/Face-Recognition-Attendance-System/blob/c0bed41f6b915b6c459988dbc524ba95879dea20/Screenshot%202026-08-26%20221328.png))
+
+### Face Recognition
+
+![Face Recognition](screenshots/face-recognition.png)
+
+### Attendance Report
+
+![Attendance Report]([screenshots/attendance-report.png](https://github.com/Param484/Face-Recognition-Attendance-System/blob/c0bed41f6b915b6c459988dbc524ba95879dea20/Screenshot%202026-08-26%20221347.png))
