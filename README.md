@@ -95,3 +95,21 @@ Face-Recognition-Attendance-System/
 │
 └── Images/
     └── .gitkeep
+
+## Screenshots
+
+### Main Window
+
+<img width="596" height="447" alt="image" src="https://github.com/user-attachments/assets/3394ca6e-647d-43ad-acc7-4c96cb415c8f" />
+
+### Student Registration
+
+![Student Registration](screenshots/registration.png)
+
+### Face Recognition
+
+![Face Recognition](screenshots/face-recognition.png)
+
+### Attendance Report
+
+![Attendance Report](screenshots/attendance-report.png)
