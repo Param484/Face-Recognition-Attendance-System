@@ -75,21 +75,23 @@ The project is designed to eliminate manual attendance entry and provide a simpl
 | python-dotenv | Secure environment variable management |
 
 ---
+## Screenshots
+
 ### Main Window
 
-![Main Window](screenshots/https://github.com/Param484/Face-Recognition-Attendance-System/blob/main/Screenshot%202026-08-26%20220751.png?raw=true)
+![Main Window](screenshots/main-window.png)
 
 ### Student Registration
 
-![Student Registration]((https://github.com/Param484/Face-Recognition-Attendance-System/blob/c0bed41f6b915b6c459988dbc524ba95879dea20/Screenshot%202026-08-26%20221328.png))
+![Student Registration](screenshots/registration.png)
 
 ### Face Recognition
 
-![Face Recognition]((https://github.com/Param484/Face-Recognition-Attendance-System/blob/a8fd52d7d6ee9e6da741ca68b0b6e20591b99650/Screenshot%20(44).png))
+![Face Recognition](screenshots/face-recognition.png)
 
-###Attendance Report
+### Attendance Report
 
-![Attendance Report]((https://github.com/Param484/Face-Recognition-Attendance-System/blob/c0bed41f6b915b6c459988dbc524ba95879dea20/Screenshot%202026-08-26%20221347.png))
+![Attendance Report](screenshots/attendance-report.png)
 
 
 ## Project Structure
