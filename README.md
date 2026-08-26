@@ -113,7 +113,6 @@ Face-Recognition-Attendance-System/
 │
 └── Images/
     └── .gitkeep
-## Screenshots
 
 
 
