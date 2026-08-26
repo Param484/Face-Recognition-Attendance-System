@@ -107,7 +107,7 @@ Face-Recognition-Attendance-System/
 
 ### Face Recognition
 
-![Face Recognition](screenshots/face-recognition.png)
+![Face Recognition]([screenshots/face-recognition.png](https://github.com/Param484/Face-Recognition-Attendance-System/blob/a8fd52d7d6ee9e6da741ca68b0b6e20591b99650/Screenshot%20(44).png))
 
 ### Attendance Report
 
